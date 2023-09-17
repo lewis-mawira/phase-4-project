@@ -134,3 +134,8 @@ This project relies on several Python libraries, including Surprise, NumPy, and 
 ## Acknowledgments
 
 We would like to acknowledge the MovieLens dataset for providing valuable movie ratings and metadata for this project.
+
+## Slides Presentation
+
+[Link to Canva Design](https://www.canva.com/design/DAFusLcUUP4/_ooZNiy1bSBSV1TmIGS-Mg/edit?utm_content=DAFusLcUUP4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
